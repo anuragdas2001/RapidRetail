@@ -4,13 +4,13 @@ RapidRetail is a modern and responsive e-commerce platform built with React, a p
 
 ## Features
 
-1. **A responsive React application for an interactive retail item list.
+1. **Responsive Design**: A responsive React application for an interactive retail item list.
 
 2. **Product Catalog**: Real-time item search functionality
 
 3. **Shopping Cart**: Dynamic shopping cart for managing purchases.
 
-4. **Responsive Design**: Smooth navigation across pages using React Router.
+4. **Dynamic Routing**: Smooth navigation across pages using React Router.
    
 5. **Maintainance**: Clean and maintainable codebase following best practices.
 
